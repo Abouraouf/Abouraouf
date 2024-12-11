@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm El Mahdi Abouraouf</h1>
-<h3 align="center">I am a software engineer student in 42 school</h3>
 
 - 🔭 I’m currently working on [Get_next_line](https://github.com/AbouraoufTech/Get_next_line_42)
 
