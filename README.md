@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm El Mahdi Abouraouf</h1>
 
-- 🔭 I’m currently working on [Get_next_line](https://github.com/AbouraoufTech/Get_next_line_42)
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/el-mahdi-abouraouf-ba6321331/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="el mahdi abouraouf" height="30" width="40" /></a>
